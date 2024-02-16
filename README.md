@@ -1,2 +1,2 @@
 # Data-Science-FCSE
-Laboratory exercises and projects
+Laboratory and auditory exercises, exams and projects
